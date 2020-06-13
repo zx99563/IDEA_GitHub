@@ -10,6 +10,7 @@ public class ProviderApplication {
 
     public static void main(String[] args) {
         System.out.println("233666");
+        System.out.println("2020");
         SpringApplication.run(ProviderApplication.class, args);
     }
 
